@@ -49,7 +49,7 @@ def monopoly_with_third_tier
       {
         
       },
-      :shortline_railroad=>{}}}}
+      :shortline=>{}}}}
 end
 
 def monopoly_with_fourth_tier
