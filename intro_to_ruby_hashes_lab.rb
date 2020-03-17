@@ -3,7 +3,7 @@ hash = {}
 end
 
 def actor
-  actor = {:symbol =>  }
+  actor = {:name => "Dwayne The Rock Johnson" }
 
 end
 
