@@ -3,6 +3,7 @@ hash = {}
 end
 
 def actor
+  actor = {:symbol =>  }
 
 end
 
